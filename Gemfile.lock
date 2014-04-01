@@ -21,7 +21,7 @@ PATH
   specs:
     activeadmin-dragonfly (0.0.2)
       activeadmin
-      dragonfly (= 0.9.15)
+      dragonfly (= 1.0.3)
       rack-cache
 
 GEM
@@ -73,7 +73,7 @@ GEM
       railties (>= 3.2.6, < 5)
       thread_safe (~> 0.1)
       warden (~> 1.2.3)
-    dragonfly (0.9.15)
+    dragonfly (1.0.3)
       multi_json (~> 1.0)
       rack
     erubis (2.7.0)
